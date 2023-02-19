@@ -21,7 +21,8 @@ How to Implement Snake Game In Python By Using OOP'S Concept
 - update()
 - time.Clock()
 - Surface.fill()
-
+# Video link:
+https://drive.google.com/file/d/1-EAaEO__1WtkMfMI2TRrkcyFetS9Ox64/view?usp=sharing
 
 
 # 2)By-using-OOP-S-Implemenation-of-App-Development
