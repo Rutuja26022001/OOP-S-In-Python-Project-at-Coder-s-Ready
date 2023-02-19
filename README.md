@@ -28,7 +28,7 @@ How to Implement Snake Game In Python By Using OOP'S Concept
 
 - To keep track of sales and payments received. To manage cash effectively. To prevent errors in the compilation of bills and invoices. Optimisation of business processes.
 
-###Importance of Billing system
+### Importance of Billing system
 - business use billing system to generate and send the invoices to their customers or partner's and receive payment.
 - consequently ,the billing system help the companies to improve their performance and reduce error's by automating documents preparation and other routine task .
 - billing system is complex software that create and automates payment and inovices.
