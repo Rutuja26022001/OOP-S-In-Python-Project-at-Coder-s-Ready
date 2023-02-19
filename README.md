@@ -1,4 +1,4 @@
-# SNAKE-GAME-DEVELOPMENT
+#  1)SNAKE-GAME-DEVELOPMENT
 How to Implement Snake Game In Python By Using OOP'S Concept
 
 ### By using an oop's language involving multiple object and classes to design snake game that allow to user to control the movement of snake .the mainobjective of player is to catch the maximum number of furits without hitting itself.
@@ -23,6 +23,8 @@ How to Implement Snake Game In Python By Using OOP'S Concept
 - Surface.fill()
 # Video link:
 https://drive.google.com/file/d/1-EAaEO__1WtkMfMI2TRrkcyFetS9Ox64/view?usp=sharing
+
+
 
 
 # 2)By-using-OOP-S-Implemenation-of-App-Development
